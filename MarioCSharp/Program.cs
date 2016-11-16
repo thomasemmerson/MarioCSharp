@@ -10,32 +10,30 @@ namespace MarioCSharp
     {
         static void Main(string[] args)
         {
-            if ((CorrectNumberOfArguments(args)) && (ArgumentIsInCorrectRange(args)))
-            {
-                Console.WriteLine(args[1]);
-            }
-        }
-        public bool CorrectNumberOfArguments(string[] args)
-        {
             if (args.Length == 1)
             {
-                return true;
+                if ((Convert.ToInt32(args[0]) > 0) && (Convert.ToInt32(args[0]) < 24))
+                {
+                    Console.WriteLine("You passed.");
+                    //TODO write the rest of the code in this code block
+                    for (int i = 0; i < intarg = Convert.ToInt32(args[0]); i++)
+                    {
+                        for (int y = ConvertToInt(args[0]); y > 0; y--)
+                        {
+                            Console.WriteLine(" ");
+                        }
+                        for 
+                        Console.WriteLine("#\n");
+                    } 
+                }
+                else
+                {
+                    Console.WriteLine("You must only enter a number that's between 1 and 23.");
+                }
             }
             else
             {
-                return false;
-            }
-        }
-
-        public bool ArgumentIsInCorrectRange(string[] args)
-        {
-            if ((Convert.ToInt32(args[1]) > 0) && (Convert.ToInt32(args[1]) < 24))
-            {
-                return true;
-            }
-            else
-            {
-                return false;
+                Console.WriteLine("You must only enter one argument.");
             }
         }
     }
