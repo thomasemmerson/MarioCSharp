@@ -1,0 +1,6 @@
+c:\users\tom\documents\visual studio 2015\Projects\MarioCSharp\MarioCSharp\bin\Debug\MarioCSharp.exe.config
+c:\users\tom\documents\visual studio 2015\Projects\MarioCSharp\MarioCSharp\bin\Debug\MarioCSharp.exe
+c:\users\tom\documents\visual studio 2015\Projects\MarioCSharp\MarioCSharp\bin\Debug\MarioCSharp.pdb
+c:\users\tom\documents\visual studio 2015\Projects\MarioCSharp\MarioCSharp\obj\Debug\MarioCSharp.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2015\Projects\MarioCSharp\MarioCSharp\obj\Debug\MarioCSharp.exe
+c:\users\tom\documents\visual studio 2015\Projects\MarioCSharp\MarioCSharp\obj\Debug\MarioCSharp.pdb
