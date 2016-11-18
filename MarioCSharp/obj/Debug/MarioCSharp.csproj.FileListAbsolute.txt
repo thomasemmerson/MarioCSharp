@@ -1,0 +1,6 @@
+C:\Code\MarioCSharp\MarioCSharp\bin\Debug\MarioCSharp.exe.config
+C:\Code\MarioCSharp\MarioCSharp\bin\Debug\MarioCSharp.exe
+C:\Code\MarioCSharp\MarioCSharp\bin\Debug\MarioCSharp.pdb
+C:\Code\MarioCSharp\MarioCSharp\obj\Debug\MarioCSharp.csprojResolveAssemblyReference.cache
+C:\Code\MarioCSharp\MarioCSharp\obj\Debug\MarioCSharp.exe
+C:\Code\MarioCSharp\MarioCSharp\obj\Debug\MarioCSharp.pdb

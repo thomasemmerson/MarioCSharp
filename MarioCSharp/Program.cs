@@ -14,17 +14,18 @@ namespace MarioCSharp
             {
                 if ((Convert.ToInt32(args[0]) > 0) && (Convert.ToInt32(args[0]) < 24))
                 {
-                    Console.WriteLine("You passed.");
-                    //TODO write the rest of the code in this code block
-                    for (int i = 0; i < intarg = Convert.ToInt32(args[0]); i++)
+                    for (int j = 0; j < Convert.ToInt32(args[0]); j++)
                     {
-                        for (int y = ConvertToInt(args[0]); y > 0; y--)
+                        for (int i = j; i < Convert.ToInt32(args[0]); i++)
                         {
-                            Console.WriteLine(" ");
+                            Console.Write(" ");
                         }
-                        for 
-                        Console.WriteLine("#\n");
-                    } 
+                        for (int k = (Convert.ToInt32(args[0]) - (j+1)); k < Convert.ToInt32(args[0]); k++)
+                        {
+                            Console.Write("#");
+                        }
+                        Console.Write("\n");
+                    }
                 }
                 else
                 {

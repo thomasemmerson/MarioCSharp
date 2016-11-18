@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MarioCSharp")]
+[assembly: AssemblyTitle("MarioCSharp.Tests")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("MarioCSharp")]
+[assembly: AssemblyProduct("MarioCSharp.Tests")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("9fd987ce-b5f9-46a0-9929-06193c966aac")]
+[assembly: Guid("5b6ab48b-0b0f-4756-b57f-c3bfee4354dd")]
 
 // Version information for an assembly consists of the following four values:
 //
